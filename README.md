@@ -93,6 +93,7 @@ Predicted digits:
 1
 0
 4
+
 Conclusion
 
 This project successfully demonstrates the implementation of an Artificial Neural Network for handwritten digit recognition using TensorFlow and Keras. The model achieved high accuracy on the MNIST dataset and can accurately classify handwritten digits.
